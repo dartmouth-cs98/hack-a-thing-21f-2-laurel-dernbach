@@ -4,7 +4,8 @@
 
 To begin working with Flutter, I followed Google's tutorial for downloading the SDK and building
 an app that creates an infinite list of potential startup names, based on random pairings of words
-from the English language. Below is a screenshot of the app on a virtual Andriod Machine:
+from the English language. The main code is in lib/main.dart.
+Below is a screenshot of the app on a virtual Andriod Machine:
 
 ![](startup-screenshot.png)
 
