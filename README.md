@@ -1,16 +1,26 @@
-# startup_namer
+# Hack Technology / Project Attempted
 
-A new Flutter project.
 
-## Getting Started
+## What you built? 
 
-This project is a starting point for a Flutter application.
+TODO: Short description of what you attempted to build
 
-A few resources to get you started if this is your first Flutter project:
+Include some screenshots.
+[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Who Did What?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TODO: who worked on what part?
+
+## What you learned
+
+TODO: what worked / what didn't work
+
+## Authors
+
+TODO: list of authors
+
+## Acknowledgments
+
+TODO: cite any tutorials followed here
+
