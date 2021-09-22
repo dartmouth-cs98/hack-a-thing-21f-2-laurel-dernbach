@@ -6,7 +6,7 @@ To begin working with Flutter, I followed Google's tutorial for downloading the 
 an app that creates an infinite list of potential startup names, based on random pairings of words
 from the English language. Below is a screenshot of the app on a virtual Andriod Machine:
 
-![](./part 1 screenshot.png)
+![](part 1 screenshot.png)
 
 ## Who Did What?
 
