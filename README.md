@@ -19,7 +19,7 @@ I followed this tutorial on my own.
 I have used before) so the learning curve wasn't too steep
 * The tutorial I followed did an excellent job breaking down the purpose of the main App component /
  the respective widgets, and I feel like it would be easy to replicate with other functionality.
- 
+
 ### What didn't work
 * The installation for this SDK was a little bumpy and took longer than anticipated. After reading
 some Stack Overflow/Reddit posts, I learned that Windows users  often have issues with this SDK.
@@ -33,6 +33,6 @@ Laurel Dernbach (see Acknowledgments for tutorial information)
 ## Acknowledgments
 
 I followed [this](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)
-tutorial to build this app, which includes all the source code. Time permitting I may play with it
-some more and add my own features.
+tutorial to build this app, which includes all the source code. Time permitting, I would like to
+play with it some more and add my own features.
 
