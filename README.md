@@ -28,7 +28,7 @@ I followed this tutorial on my own.
 * I don't really like the way Flutter organizes its theme/design hierarchy--the way code takes precedence is strange and not intuitive
   (I assume this is the cost of app looking "natural" cross platform)
 * I tried to change the code such that it loaded suggestions from a list I have on my phone of
-potential band names (it's very long, been adding to it for years). [Here](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-laurel-dernbach/tree/bandnames-trial) is th attempt
+potential band names (it's very long, been adding to it for years). [Here](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-laurel-dernbach/tree/bandnames-trial) is the attempt
 (I accidentally created this branch off the wrong remote), based on [this](https://toastguyz.com/flutter/read-and-write-files-in-flutter) blog post.
 I ultimately couldn't get it to work because I was having trouble matching types / handling null returns.
 I don't think I completely understand how state persists within this SDK so I would definitely have to continue practicing if this is a technology I want to use for a project.
